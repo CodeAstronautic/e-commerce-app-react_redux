@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# demo
+![demo](https://github.com/mPooja-15/e-commerce-app-react_redux/blob/master/dsdsdsd.png)
 ## Available Scripts
 
 In the project directory, you can run:
