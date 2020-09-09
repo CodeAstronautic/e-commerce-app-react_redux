@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 # demo
-![https://github.com/mPooja-15/e-commerce-app-react_redux/blob/master/ssssssss.png]
+![demo](https://github.com/mPooja-15/e-commerce-app-react_redux/blob/master/ssssssss.png)
